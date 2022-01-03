@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vancouverbakery/static/css/main.9bd3eede.css",
+    "main.js": "/vancouverbakery/static/js/main.9d5f115d.js",
+    "index.html": "/vancouverbakery/index.html",
+    "main.9bd3eede.css.map": "/vancouverbakery/static/css/main.9bd3eede.css.map",
+    "main.9d5f115d.js.map": "/vancouverbakery/static/js/main.9d5f115d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd3eede.css",
+    "static/js/main.9d5f115d.js"
+  ]
+}
